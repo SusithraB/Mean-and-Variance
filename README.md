@@ -1,4 +1,6 @@
 #  Mean and variance of a discrete  distribution
+# Developed by: SUSITHRA.B
+# Regester No: 212223220113
 
 
 # Aim : 
